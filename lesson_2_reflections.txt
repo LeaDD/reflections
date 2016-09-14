@@ -1,7 +1,18 @@
-What happens when you initialize a repository? Why 
+1> What happens when you initialize a repository? Why 
 do you need to do it?
 
 Init creates a .git file which stores the meta 
 data detailing the changes made in each commit. 
 Init needs to be done in order to make the directory
 a repository.
+
+2> How is the staging area different from the working 
+directory and the repository? What value do you think 
+it offers?
+
+The staging area holds the records to be passed into
+the next commit. This is the middle stage between 
+the working directory (directory where the repository
+resides) and the repository. This allows the user
+more control over how and when things are added to
+the repository.

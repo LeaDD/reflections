@@ -1,0 +1,4 @@
+How did viewing a diff between two versions help you spot the bug?
+
+Using FC clearly highlighted the differences between the two files which on 
+closer inpsection quickly revealed the typo.

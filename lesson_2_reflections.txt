@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why 
+do you need to do it?
+
+Init creates a .git file which stores the meta 
+data detailing the changes made in each commit. 
+Init needs to be done in order to make the directory
+a repository.

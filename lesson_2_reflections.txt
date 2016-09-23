@@ -17,4 +17,19 @@ resides) and the repository. This allows the user
 more control over how and when things are added to
 the repository.
 
-3>
+3> How can you use the staging area to make sure you have one 
+commit per logical change?
+
+You can check the version in the staging area against the most 
+recent commit.
+
+4> What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+
+If you were going to make experimental changes to the code base 
+the branches would allow you to go in this direction while keeping
+your working code base intact.
+
+5> How do the diagrams help you visualize the branch structure?
+
+Allows you to see the flow of the branches and commit history.

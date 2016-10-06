@@ -33,3 +33,18 @@ your working code base intact.
 5> How do the diagrams help you visualize the branch structure?
 
 Allows you to see the flow of the branches and commit history.
+
+6> What is the result of merging two branches together? Why do 
+we represent it in the diagram the way we do?
+
+Merging two branches merges the changes from each into a single branch.
+They are represented in the diagram as they are so that you can see 
+which commits were made on which branch.
+
+7> What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+Git takes a lot of the working out of merging code with the automatic 
+merges. Sometimes though it cannot if the same file was modified in 
+the same location on two branches. This results in a conflict which 
+must be resolved by the user.

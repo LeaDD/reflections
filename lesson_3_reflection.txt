@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
  
 Remote repository may contain files or changes that conflict with the changes 
 you have made. These may need to be resolved in a merge.
+
+3> Describe the differences between forks, clones and branches. When would you use one instead of the other?
+
+A branch is a split in a single repository. A clone is a copy of a remote repository. A fork is a copy of a GitHub repository
+into another GitHub repository. You might use a fork instead of cloning if you wanted to use another user's repository
+but do not have permission or the desire to change that user's repository.
